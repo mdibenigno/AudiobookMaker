@@ -8,7 +8,7 @@ https://www.gutenberg.org/ebooks/20203
 
 and specificlly looking at the .txt file here - https://www.gutenberg.org/cache/epub/20203/pg20203.txt
 
-Had to do some parsing to remove captions, preamble, introductions, licenses, etc. and get to just the raw autobiography
+Had to do some parsing to remove captions, preamble, introductions, etc. and get to just the raw autobiography
 
 Eventually I want to have it narrated in the voice of Benjamin Franklin, I found this voice actor reading and want to use 
 a service like elevenlabs.io to clone the voice and run the audio. Stopping here for now though.
